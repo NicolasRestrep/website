@@ -44,6 +44,6 @@ bio: My research interests include social change, formal and computational model
   of culture, morality, social networks.
 ---
 
-I am a PhD candidate in sociology at Duke University. I am interested in how culture gets into agents' heads, how it develops and changes across their lifetime, and how it moves across networks. I am especially interested in how these micro-level processes scale up to aggregate patterns of cultural change. To answer these questions I use longitudinal data, social network analysis, and simulations. I also love Bayesian statistics, music, and football (soccer). 
+I am a PhD candidate in sociology at Duke University. I am interested in how cultural animals (human and nonhuman) adopt habits and beliefs, how these develop and change across their lifetime, and how they are transmitted across networks. I am especially interested in how these micro-level processes scale up to aggregate patterns of cultural change. To answer these questions I use longitudinal data, social network analysis, and simulations. I also love Bayesian statistics, music, and football (soccer). 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
