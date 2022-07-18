@@ -3,11 +3,11 @@ summary: More about my research
 title: "My work"
 ---
 
-I am interested in cultural change. Specifically, I am interested in the instances that prompt individuals to revisit the habits and beliefs that have served them well in the past. There are many parts to this puzzle: we have to understand what beliefs are and how to measure them; that the relationship between beliefs and behavior is; how cultural beliefs are transmitted; and what kind of social structures allow for the effective transmission and retention of culture. In my work, I try to shed light on these issues. 
+I am interested in cultural change. Specifically, I am interested in the instances that prompt individuals to revisit the habits and beliefs that have served them well in the past. There are many parts to this puzzle: we have to understand what beliefs are and how to measure them; what the relationship between beliefs and behavior is; how cultural beliefs are transmitted; and what kind of social structures allow for the effective transmission and retention of culture. In my work, I try to shed light on these issues. 
 
 ## Moral Beliefs 
 
-I am very interested in moral beliefs - ideas about what is right and wrong. I have done [work](https://www.sciencedirect.com/science/article/pii/S0304422X21001418?dgcid=author) about how we can use the tools of cultural sociology to adjudicate between theories about how we attribute immorality. I am currently collaborating with [Daniela Goya-Tochetto](https://www.danielagoyatocchetto.me/about) and [Kurt Gray](https://www.kurtjgray.com/), developing an instrument that can capture how vulnerable individuals perceive certain subjects to be. These differences in perceived vulnerability, we argue, account for some of the variance we perceive in moral judgment across groups. 
+I am very interested in moral beliefs - ideas about what is right and wrong. I have done [work](https://www.sciencedirect.com/science/article/pii/S0304422X21001418?dgcid=author) about how we can use the tools of cultural sociology to adjudicate between theories about how we attribute immorality. I am currently collaborating with [Daniela Goya-Tochetto](https://www.danielagoyatocchetto.me/about) and [Kurt Gray](https://www.kurtjgray.com/), developing an instrument that can capture how people perceive the vulnerability of different agents. These differences in perceived vulnerability, we argue, account for some of the variance we see in moral judgment across groups. 
 
 
 ![](figure3.png)
@@ -30,7 +30,7 @@ Now, whether the shape of formative periods actually varies across historical an
 
 ## Attitudinal Formation and Change 
 
-An important question is how we are socialized into our beliefs. Who is likely to keep the same moral beliefs as their parents? Who is likely to change? Along with [Turgut Keskinturk](https://tkeskinturk.github.io/), we are trying to shed light on these questions. Drawing inspiration from [Kevin Kiley's](https://krkiley.github.io/), we conceive of belief spaces, where individuals can take positions. These spaces can be thought of as rugged landscapes: certain positions are more stable than others, representing the global optima. We are interested in trajectories of movement across that rugged landscape - who stays around the peak where they start? Who makes what are known as "hot transitions", traveling between different optima? To answer these questions we are using longitudinal data and computational text analysis. 
+An important question is how we are socialized into our beliefs. Who is likely to keep the same moral beliefs as their parents? Who is likely to change? Along with [Turgut Keskinturk](https://tkeskinturk.github.io/), we are trying to shed light on these questions. Drawing inspiration from [Kevin Kiley's](https://krkiley.github.io/) work, we conceive of belief spaces as a set of more or less adjacent positions, where individuals can place themselves. These spaces can be thought of as rugged landscapes: certain positions are more stable than others, representing the global optima. We are interested in trajectories of movement across that rugged landscape - who stays around the peak where they start? Who makes what are known as "hot transitions", traveling between different optima? To answer these questions we are using longitudinal data and computational text analysis. 
 
 ![Belief Space](bspace.png)
 
