@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD in Sociology 
     institution: Duke University
-    year: 2024
+    year: 2022
   - course: MPhil in Sociology
     institution: University of Cambridge
     year: 2016
@@ -19,10 +19,11 @@ interests:
   of Culture
 - Morality
 - Social Networks
+- Collective Rituals
 organizations:
-- name: Duke University
-  url: https://sociology.duke.edu/
-role: PhD Candidate in Sociology
+- name: Anthropology, UC Davis
+  url: https://sites.google.com/site/cristinasolermoya/lab
+role: Post-Doctoral Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -44,6 +45,6 @@ bio: My research interests include social change, formal and computational model
   of culture, morality, social networks.
 ---
 
-I am a PhD candidate in sociology at Duke University. I am interested in how cultural animals (human and nonhuman) adopt habits and beliefs, how these develop and change across their lifetime, and how they are transmitted across networks. I am especially interested in how these micro-level processes scale up to aggregate patterns of cultural change. To answer these questions I use longitudinal data, social network analysis, and simulations. I also love Bayesian statistics, music, and football (soccer). 
+I am a Post-Doctoral Researcher in the Evolutionary Anthropology Department at UC Davis. I am interested in how cultural animals (human and nonhuman) adopt habits and beliefs, how these develop and change across their lifetime, and how they are transmitted across networks. I am especially interested in how these micro-level processes scale up to aggregate patterns of cultural change. To answer these questions I use longitudinal data, social network analysis, simulations, and formal models. I also love Bayesian statistics, music, and football (soccer). 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.

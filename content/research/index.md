@@ -26,6 +26,8 @@ Recent work on attitudinal change suggests that adults rarely update their belie
 
 Now, whether the shape of formative periods actually varies across historical and cultural contexts is an empirical question. In a ongoing project with [Kevin Kiley](https://krkiley.github.io/), we try to answer this question by looking at longitudinal data for individuals of the same age bands but from different cohorts. Specifically, we are interested in testing the hypothesis of whether young adulthood has extended.  
 
+Along with [Steve Vaisey]("https://vaiseys.github.io"), we are using the World Values Survey to examine the mechanisms of social change across different countries throughout the last four decades. We notice that the cohort-replacement model of change is particularly explanatory when it comes to "sensitive" issues. In other words, issues that are more difficult to talk about change more privately. 
+
 ![Modeling](image.png)
 
 ## Attitudinal Formation and Change 
@@ -39,3 +41,7 @@ An important question is how we are socialized into our beliefs. Who is likely t
 Social scientists have often envisioned cultural transmission occurring through social networks. In my work, I explore the role of networks in the transmission or retention of cultural information. With different colleagues, we recently published a simulation-based [paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.211324) that shows that central-place foraging results in networks that are well suited for cultural transmission. I am also currently collaborating with a team of sociologists and ecologists looking at how resilient the networks of multiple species are to different types of node removal. 
 
 ![Modeling](nets.png)
+
+## Functionalism in Sociological Explanations
+
+Along with [Andrés Castro Araújo](https://acastroaraujo.github.io/) we have noticed a trend: even though functionalism has been a derogatory term in sociology, a lot of sociological explanations still use functionalist arguments cryptically. We argue that this disconnection stems from associating functionalist explanations to substantive theories of the social world. This need not be the case. We contend that functionalism encompasses several styles of argument that can be more or less appropriate given the claims advanced, and that require more or less empirical evidence to be adjudicated. 
