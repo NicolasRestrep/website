@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicolas Restrepo Ochoa</title>
+    <link>https://restrepo-ochoa.netlify.app/</link>
+      <atom:link href="https://restrepo-ochoa.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicolas Restrepo Ochoa</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://restrepo-ochoa.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Nicolas Restrepo Ochoa</title>
+      <link>https://restrepo-ochoa.netlify.app/</link>
+    </image>
+    
+    <item>
+      <title>Python basics</title>
+      <link>https://restrepo-ochoa.netlify.app/courses/example/python/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://restrepo-ochoa.netlify.app/courses/example/python/</guid>
+      <description>&lt;p&gt;Build a foundation in Python.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
+&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/rfscVS0vtbw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary&gt;What is the difference between lists and tuples?&lt;/summary&gt;
+  &lt;p&gt;&lt;p&gt;Lists&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lists are mutable - they can be changed&lt;/li&gt;
+&lt;li&gt;Slower than tuples&lt;/li&gt;
+&lt;li&gt;Syntax: &lt;code&gt;a_list = [1, 2.0, &#39;Hello world&#39;]&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tuples&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tuples are immutable - they can&amp;rsquo;t be changed&lt;/li&gt;
+&lt;li&gt;Tuples are faster than lists&lt;/li&gt;
+&lt;li&gt;Syntax: &lt;code&gt;a_tuple = (1, 2.0, &#39;Hello world&#39;)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
+  &lt;summary&gt;Is Python case-sensitive?&lt;/summary&gt;
+  &lt;p&gt;Yes&lt;/p&gt;
+&lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>Visualization</title>
+      <link>https://restrepo-ochoa.netlify.app/courses/example/visualization/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://restrepo-ochoa.netlify.app/courses/example/visualization/</guid>
+      <description>&lt;p&gt;Learn how to visualize data with Plotly.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
+&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/hSPmj7mK6ng&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary&gt;When is a heatmap useful?&lt;/summary&gt;
+  &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
+  &lt;summary&gt;Write Plotly code to render a bar chart&lt;/summary&gt;
+  &lt;p&gt;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import plotly.express as px
+data_canada = px.data.gapminder().query(&amp;quot;country == &#39;Canada&#39;&amp;quot;)
+fig = px.bar(data_canada, x=&#39;year&#39;, y=&#39;pop&#39;)
+fig.show()
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/p&gt;
+&lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>Statistics</title>
+      <link>https://restrepo-ochoa.netlify.app/courses/example/stats/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://restrepo-ochoa.netlify.app/courses/example/stats/</guid>
+      <description>&lt;p&gt;Introduction to statistics for data science.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
+&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
+&lt;p&gt;The general form of the &lt;strong&gt;normal&lt;/strong&gt; probability density function is:&lt;/p&gt;
+&lt;p&gt;$$
+f(x) = \frac{1}{\sigma \sqrt{2\pi} } e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}
+$$&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The parameter $\mu$ is the mean or expectation of the distribution.
+$\sigma$ is its standard deviation.
+The variance of the distribution is $\sigma^{2}$.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
+  &lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
+&lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://restrepo-ochoa.netlify.app/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://restrepo-ochoa.netlify.app/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cultural Transmission and the Dynamics of Global and Local Social Influence.</title>
+      <link>https://restrepo-ochoa.netlify.app/publication/global_local_influence/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://restrepo-ochoa.netlify.app/publication/global_local_influence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The shape of formative periods and the rhythm of cultural change</title>
+      <link>https://restrepo-ochoa.netlify.app/publication/varying_windows/</link>
+      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://restrepo-ochoa.netlify.app/publication/varying_windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Template matching and moral judgment</title>
+      <link>https://restrepo-ochoa.netlify.app/publication/moral_templates/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://restrepo-ochoa.netlify.app/publication/moral_templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hunter-Gatherer foraging networks promote information transmission</title>
+      <link>https://restrepo-ochoa.netlify.app/publication/hg_nets/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://restrepo-ochoa.netlify.app/publication/hg_nets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://restrepo-ochoa.netlify.app/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://restrepo-ochoa.netlify.app/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   **Two** 
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   Three 
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Internal Project</title>
+      <link>https://restrepo-ochoa.netlify.app/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://restrepo-ochoa.netlify.app/project/internal-project/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://restrepo-ochoa.netlify.app/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://restrepo-ochoa.netlify.app/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My work</title>
+      <link>https://restrepo-ochoa.netlify.app/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://restrepo-ochoa.netlify.app/research/</guid>
+      <description>&lt;p&gt;I am interested in cultural change. Specifically, I am interested in the instances that prompt individuals to revisit the habits and beliefs that have served them well in the past. There are many parts to this puzzle: we have to understand what beliefs are and how to measure them; what the relationship between beliefs and behavior is; how cultural beliefs are transmitted; and what kind of social structures allow for the effective transmission and retention of culture. In my work, I try to shed light on these issues.&lt;/p&gt;
+&lt;h2 id=&#34;moral-beliefs&#34;&gt;Moral Beliefs&lt;/h2&gt;
+&lt;p&gt;I am very interested in moral beliefs - ideas about what is right and wrong. I have done &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0304422X21001418?dgcid=author&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;work&lt;/a&gt; about how we can use the tools of cultural sociology to adjudicate between theories about how we attribute immorality. I am currently collaborating with &lt;a href=&#34;https://www.danielagoyatocchetto.me/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniela Goya-Tochetto&lt;/a&gt; and &lt;a href=&#34;https://www.kurtjgray.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kurt Gray&lt;/a&gt;, developing an instrument that can capture how people perceive the vulnerability of different agents. These differences in perceived vulnerability, we argue, account for some of the variance we see in moral judgment across groups.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /research/figure3_hub545b1e47fbd9adb5360862aa0cb2f80_32619_36c5d35f6d2ec9d7a4780747504d3f32.webp 400w,
+               /research/figure3_hub545b1e47fbd9adb5360862aa0cb2f80_32619_253703d000dd1ebd0f350c63344b72a7.webp 760w,
+               /research/figure3_hub545b1e47fbd9adb5360862aa0cb2f80_32619_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://restrepo-ochoa.netlify.app/research/figure3_hub545b1e47fbd9adb5360862aa0cb2f80_32619_36c5d35f6d2ec9d7a4780747504d3f32.webp&#34;
+               width=&#34;480&#34;
+               height=&#34;480&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;social-learning&#34;&gt;Social Learning&lt;/h2&gt;
+&lt;p&gt;Part of understanding how people change their beliefs and habits is to ask where they find novel information. During grad school, I became familiar with work on social influence, but it was particularly exciting to see that there is a whole line of interdisciplinary work examining how we learn from one another. I - alongside &lt;a href=&#34;https://twitter.com/T_mWolff&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tom Wolff&lt;/a&gt; - use tools from the social learning literature to note that that the learning strategies that agents use combine with network topologies to produce different patterns of cultural diffusion. I am working in building models that are able to detect the prevalence of different learning strategies (e.g. prestige-biased social learning vs. follow-the-majority) in longitudinal relational data. Along with &lt;a href=&#34;https://acerbialberto.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alberto Acerbi&lt;/a&gt;, I am also working on a project that seeks to explore a tension that exists in the social learning literature: if humans are such keen foragers of social information, why do they often underuse such information?&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;hi&#34; srcset=&#34;
+               /research/gli_huf2251c7d10da66220188bef70dd7ea1d_61015_a35e61d76e8a81da3a2345641505ae63.webp 400w,
+               /research/gli_huf2251c7d10da66220188bef70dd7ea1d_61015_d7b9ab1ecfe36c31791635e130621a98.webp 760w,
+               /research/gli_huf2251c7d10da66220188bef70dd7ea1d_61015_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://restrepo-ochoa.netlify.app/research/gli_huf2251c7d10da66220188bef70dd7ea1d_61015_a35e61d76e8a81da3a2345641505ae63.webp&#34;
+               width=&#34;480&#34;
+               height=&#34;384&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;formative-periods&#34;&gt;Formative Periods&lt;/h2&gt;
+&lt;p&gt;Recent work on attitudinal change suggests that adults rarely update their beliefs.  After the socialization and exploration that characterizes our formative years, the story of adulthood is one of stability. This finding resonates with interdisciplinary work, which has evidenced these periods of increased malleability across species and contexts. Questions remain, however, about what it is about these periods that leads to attitudinal formation and change. Biological rhythms are part of the explanation, but these formative periods are also quite particular: they are characterized by sustained social learning and punctuated by changes in social contexts. I have tried to explore these questions. In this &lt;a href=&#34;https://osf.io/preprints/socarxiv/y8b2e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;, I try to explore the interaction between the shape of formative periods and the demographic characteristics of a group. I argue that these two factors might combine to produce different patterns of cultural change. In other words, if individuals change with higher chance during a particular life-stage, then large-scale change should - at least partially - be a result of how many agents open to change there are at any point. The size of formative periods, along with the age-structure of a group, define this supply of &amp;ldquo;changers&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Now, whether the shape of formative periods actually varies across historical and cultural contexts is an empirical question. In a ongoing project with &lt;a href=&#34;https://krkiley.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kevin Kiley&lt;/a&gt;, we try to answer this question by looking at longitudinal data for individuals of the same age bands but from different cohorts. Specifically, we are interested in testing the hypothesis of whether young adulthood has extended.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Modeling&#34; srcset=&#34;
+               /research/image_hu8c93837a83ddc530e2ce7f030bba75ef_745200_fa830e58defa8c582ca1f321d6815330.webp 400w,
+               /research/image_hu8c93837a83ddc530e2ce7f030bba75ef_745200_36f5384915df17307231ef276026f4a6.webp 760w,
+               /research/image_hu8c93837a83ddc530e2ce7f030bba75ef_745200_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://restrepo-ochoa.netlify.app/research/image_hu8c93837a83ddc530e2ce7f030bba75ef_745200_fa830e58defa8c582ca1f321d6815330.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;591&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;attitudinal-formation-and-change&#34;&gt;Attitudinal Formation and Change&lt;/h2&gt;
+&lt;p&gt;An important question is how we are socialized into our beliefs. Who is likely to keep the same moral beliefs as their parents? Who is likely to change? Along with &lt;a href=&#34;https://tkeskinturk.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Turgut Keskinturk&lt;/a&gt;, we are trying to shed light on these questions. Drawing inspiration from &lt;a href=&#34;https://krkiley.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kevin Kiley&amp;rsquo;s&lt;/a&gt; work, we conceive of belief spaces as a set of more or less adjacent positions, where individuals can place themselves. These spaces can be thought of as rugged landscapes: certain positions are more stable than others, representing the global optima. We are interested in trajectories of movement across that rugged landscape - who stays around the peak where they start? Who makes what are known as &amp;ldquo;hot transitions&amp;rdquo;, traveling between different optima? To answer these questions we are using longitudinal data and computational text analysis.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Belief Space&#34; srcset=&#34;
+               /research/bspace_hu1a932110b21cd1dd5a376672875a3d69_138668_af547415afc9f525d3541c3b00d04fff.webp 400w,
+               /research/bspace_hu1a932110b21cd1dd5a376672875a3d69_138668_e0a78b2efdbe4bdfdb660b6b0d36bd4c.webp 760w,
+               /research/bspace_hu1a932110b21cd1dd5a376672875a3d69_138668_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://restrepo-ochoa.netlify.app/research/bspace_hu1a932110b21cd1dd5a376672875a3d69_138668_af547415afc9f525d3541c3b00d04fff.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;407&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;networks-for-cultural-transmission&#34;&gt;Networks for Cultural Transmission&lt;/h2&gt;
+&lt;p&gt;Social scientists have often envisioned cultural transmission occurring through social networks. In my work, I explore the role of networks in the transmission or retention of cultural information. With different colleagues, we recently published a simulation-based &lt;a href=&#34;https://royalsocietypublishing.org/doi/full/10.1098/rsos.211324&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; that shows that central-place foraging results in networks that are well suited for cultural transmission. I am also currently collaborating with a team of sociologists and ecologists looking at how resilient the networks of multiple species are to different types of node removal.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Modeling&#34; srcset=&#34;
+               /research/nets_huf903dfe1f9cc99d75022a41c3769338f_28186_044b3f358067136a257355ec6ea0b11e.webp 400w,
+               /research/nets_huf903dfe1f9cc99d75022a41c3769338f_28186_a24d4d9c22838d48ba53a8aa6de64a95.webp 760w,
+               /research/nets_huf903dfe1f9cc99d75022a41c3769338f_28186_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://restrepo-ochoa.netlify.app/research/nets_huf903dfe1f9cc99d75022a41c3769338f_28186_044b3f358067136a257355ec6ea0b11e.webp&#34;
+               width=&#34;480&#34;
+               height=&#34;384&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

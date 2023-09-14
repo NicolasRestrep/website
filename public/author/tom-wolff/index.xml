@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tom Wolff | Nicolas Restrepo Ochoa</title>
+    <link>https://restrepo-ochoa.netlify.app/author/tom-wolff/</link>
+      <atom:link href="https://restrepo-ochoa.netlify.app/author/tom-wolff/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tom Wolff</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://restrepo-ochoa.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Tom Wolff</title>
+      <link>https://restrepo-ochoa.netlify.app/author/tom-wolff/</link>
+    </image>
+    
+    <item>
+      <title>Cultural Transmission and the Dynamics of Global and Local Social Influence.</title>
+      <link>https://restrepo-ochoa.netlify.app/publication/global_local_influence/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://restrepo-ochoa.netlify.app/publication/global_local_influence/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

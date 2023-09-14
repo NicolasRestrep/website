@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Nicolas Restrepo Ochoa</title>
+    <link>https://restrepo-ochoa.netlify.app/publication/</link>
+      <atom:link href="https://restrepo-ochoa.netlify.app/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://restrepo-ochoa.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://restrepo-ochoa.netlify.app/publication/</link>
+    </image>
+    
+    <item>
+      <title>Cultural Transmission and the Dynamics of Global and Local Social Influence.</title>
+      <link>https://restrepo-ochoa.netlify.app/publication/global_local_influence/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://restrepo-ochoa.netlify.app/publication/global_local_influence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The shape of formative periods and the rhythm of cultural change</title>
+      <link>https://restrepo-ochoa.netlify.app/publication/varying_windows/</link>
+      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://restrepo-ochoa.netlify.app/publication/varying_windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Template matching and moral judgment</title>
+      <link>https://restrepo-ochoa.netlify.app/publication/moral_templates/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://restrepo-ochoa.netlify.app/publication/moral_templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hunter-Gatherer foraging networks promote information transmission</title>
+      <link>https://restrepo-ochoa.netlify.app/publication/hg_nets/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://restrepo-ochoa.netlify.app/publication/hg_nets/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
