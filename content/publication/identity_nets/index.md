@@ -3,14 +3,14 @@ abstract: "Sociological thought emphasizes the interdependencies between an indi
 authors:
 - Maria C. Ramos Flor
 - admin
-date: "2023-09-14T00:00:00Z"
+date: "2023-09-15T00:00:00Z"
 doi: ""
 featured: false
 projects: []
 publication: '*Under Review at SPQ*'
 publication_short: ""
 publication_types:
-- "5"
+- "6"
 publishDate: ""
 tags:
 - Identity Networks
@@ -18,7 +18,7 @@ tags:
 - Identity Theory
 - The Self
 - Well-being
-title: Identity Networks as a New Frontier: Conceptualizing, Mapping, and Analyzing Identity Structures and Their Impact on Well-being
+title: Identity Networks as a New Frontier - Conceptualizing, Mapping, and Analyzing Identity Structures and Their Impact on Well-being
 url_code: https://osf.io/preprints/socarxiv/fahe3/
 url_dataset: ""
 url_pdf: https://osf.io/preprints/socarxiv/fahe3/
